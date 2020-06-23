@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Kelly Kapowski",
+      "image": "https://vignette.wikia.nocookie.net/savedbythebell/images/3/37/Kelly_Kapowski.jpg/revision/latest?cb=20160327170750",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "AC Slater",
+      "image": "https://vignette.wikia.nocookie.net/savedbythebell/images/2/29/Ac_Slater.jpg/revision/latest?cb=20121009032518",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Zack Morris",
+      "image": "https://vignette.wikia.nocookie.net/savedbythebell/images/f/f1/Zack_Morris_Main.jpg/revision/latest?cb=20121009031818",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Jessie Spano",
+      "image": "https://vignette.wikia.nocookie.net/savedbythebell/images/a/ab/Jessie_Spano.jpg/revision/latest?cb=20121009032311",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Stacey Carosi",
+      "image": "https://vignette.wikia.nocookie.net/canonfanon/images/e/ed/Stacey_Carosi_2.png/revision/latest/scale-to-width-down/120?cb=20160712181106",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Tori Scott",
+      "image": "https://vignette.wikia.nocookie.net/savedbythebell/images/1/17/ToriScottSeasonFour.jpg/revision/latest?cb=20140901231158",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Screech Powers",
+      "image": "https://vignette.wikia.nocookie.net/savedbythebell/images/f/f7/Screech_older.png/revision/latest?cb=20130402085450",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Violet Bickerstaff",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1wZzksSuphpZSY40AMSPJ_xZ2s4_Qz_N53arhP0kYL-OnFnjp&usqp=CAU",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Lisa Turtle",
+      "image": "https://vignette.wikia.nocookie.net/savedbythebell/images/4/45/LisaSeasonThreeP.jpg/revision/latest?cb=20140901180600",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Max",
+      "image": "https://vignette.wikia.nocookie.net/savedbythebell/images/8/84/Max.jpg/revision/latest?cb=20110216022008",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Mr Belding",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8qHw61Ylmki7mfFmSMFg5UL_QTXfMHBM939lywSfCxPzoT-2K&usqp=CAU",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Miss Bliss",
+      "image": "https://img.sharetv.com/shows/characters/large/good_morning_miss_bliss.miss_carrie_bliss.jpg",
+      "count": 0
+    }
+  ]

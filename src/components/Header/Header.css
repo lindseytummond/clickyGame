@@ -1,0 +1,22 @@
+.header {
+    width: 100%;
+    font-size: 2rem;
+    color: #f6ea25;
+    margin-bottom: 10px;
+    padding: 30px;
+    background-color: #1070b7;
+  }
+
+  .instructions {
+    font-size: 1.5rem;
+    color: #e32187;
+    text-align: center;
+  }
+  
+  .title {
+    float: left;
+  }
+  
+  .scores {
+    float: right;
+  }
