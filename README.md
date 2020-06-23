@@ -34,5 +34,5 @@ Future developments would include creating additional character cards to make th
 ## App Example:
 
 <a href="https://lindseytummond.github.io/clickyGame/" target="_blank">
-   <img src="public/assets/img/TL-scraper.png">
+   <img src="public/clickyGame.png">
 </a>
